@@ -59,9 +59,6 @@ I am a detail-oriented Software Engineer focused on designing and building scala
 ---
 
 ## 💻 Engineering Portfolio
-
-*(Replace `[LINK]` and `[DEMO]` with your actual repository and live URLs if any are missing)*
-
 <table bordercolor="#E50914">
   <tr>
     <td width="50%" valign="top">
