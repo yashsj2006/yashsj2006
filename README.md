@@ -40,7 +40,7 @@
 <div align="left">
   <!-- Social Badges (Medium Icons, matching theme) -->
   <a href="https://www.linkedin.com/in/yash-sanjay-a6842b372/?skipRedirect=true"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="LinkedIn"  /></a>
-  <a href="mailto:yashsj2006@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=E50914&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Email"  /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=E50914&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="Email"  /></a>
   <a href="https://yashsj2006.github.io/CodSoft_Portfolio/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=About.me&label=&color=09090B&logoColor=E50914&labelColor=&style=for-the-badge" height="32" alt="Portfolio"  /></a>
 </div>
 
